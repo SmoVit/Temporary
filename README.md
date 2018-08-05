@@ -1,3 +1,3 @@
 # Temporary
 Temporary
-It is temporary fail, that I created to lean git.
+It is temporary file, that I created to lean git.
